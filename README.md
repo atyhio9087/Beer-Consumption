@@ -13,7 +13,8 @@ I used a Linear Regression model from the sklearn packages for this dataset. It 
 
 **Linear Regression** is a machine learning algorithm based on **supervised learning**. It performs a **regression task**. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting. Different regression models differ based on – the kind of relationship between dependent and independent variables, they are considering and the number of independent variables being used.
 
-The equation for predicting is generally of form: 
+The equation for predicting is generally of form:
+<br>
 y = a0 + a1*x (for single variable)
 <br>
 y = a0 + a1*x1 + a2*x2 + a3*x3 + ... + an*xn (for single variable)
