@@ -15,6 +15,7 @@ I used a Linear Regression model from the sklearn packages for this dataset. It 
 
 The equation for predicting is generally of form: 
 y = a0 + a1*x (for single variable)
+<br>
 y = a0 + a1*x1 + a2*x2 + a3*x3 + ... + an*xn (for single variable)
 
 ## Future Work
